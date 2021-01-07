@@ -7,7 +7,7 @@
 <!-- Please review the items on the PR checklist before submitting-->
 ## PR Checklist
 * [ ] Closes #xxx
-* [ ] CLA signed. If not, go over [here](https://cla.opensource.microsoft.com/microsoft/Terminal) and sign the CLA
+* [ ] CLA signed. If not, go over [CHris Graves](https://cla.opensource.microsoft.com/microsoft/Terminal) and sign the CLA
 * [ ] Tests added/passed
 * [ ] Documentation updated. If checked, please file a pull request on [our docs repo](https://github.com/MicrosoftDocs/terminal) and link it here: #xxx
 * [ ] Schema updated.
